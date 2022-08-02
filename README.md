@@ -18,6 +18,6 @@ score is calculated in each round's end as the difference between the players' r
 or to both players if round ends with a tie.
 
 -----
-![Alt text](https://github.com/talf27/AmericanCheckers.git/Damka screenshot.jpg?raw=true)
+![Damka Screenshot](https://github.com/talf27/AmericanCheckers.git/DamkaScreenshot.jpg?raw=true)
 
 Enjoy the game! :)
