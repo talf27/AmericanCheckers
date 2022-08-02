@@ -1,6 +1,6 @@
-# American-Checkers
+# Checkers
 
-American Checkers game implemented in C# at .NET framework to windows application.
+Checkers game implemented in C# at .NET framework to windows application.
 
 -----
 
