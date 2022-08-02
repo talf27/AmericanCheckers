@@ -1,6 +1,6 @@
-# American-Checkers
+# Checkers
 
-American Checkers game implemented in C# at .NET framework to windows application.
+Checkers game implemented in C# at .NET framework to windows application.
 
 -----
 
@@ -18,6 +18,6 @@ score is calculated in each round's end as the difference between the players' r
 or to both players if round ends with a tie.
 
 -----
-![Alt text](https://github.com/talf27/AmericanCheckers.git/Damka screenshot.jpg?raw=true)
+<img src="DamkaScreenshot.jpg" width=250>
 
 Enjoy the game! :)
