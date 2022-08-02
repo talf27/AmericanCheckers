@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\ASUS\Documents\לימודים\American Checkers\GameLogic\obj\Debug\GameLogic.pdb

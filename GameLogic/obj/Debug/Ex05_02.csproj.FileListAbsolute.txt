@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\bin\Debug\Ex05_02.dll.config
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\bin\Debug\Ex05_02.dll
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\bin\Debug\Ex05_02.pdb
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\obj\Debug\Ex05_02.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\obj\Debug\Ex05_02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\obj\Debug\Ex05_02.dll
+C:\Users\ASUS\Documents\לימודים\שנה ב\סמסטר ב\סי שארפ\מטלה 5 פידבק\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\B22 Ex05 TalFeldman 318601176 AvishagBasel 207164831\Ex05_02\obj\Debug\Ex05_02.pdb

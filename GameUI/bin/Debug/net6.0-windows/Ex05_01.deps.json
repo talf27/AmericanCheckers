@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex05_01/1.0.0": {
+        "dependencies": {
+          "Ex05_02": "1.0.0"
+        },
+        "runtime": {
+          "Ex05_01.dll": {}
+        }
+      },
+      "Ex05_02/1.0.0": {
+        "runtime": {
+          "Ex05_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex05_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex05_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
