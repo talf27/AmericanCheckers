@@ -1,6 +1,6 @@
-﻿using static Ex05_01.Enums;
+﻿using static GameUI.Enums;
 
-namespace Ex05_01
+namespace GameUI
 {
     internal struct GameSettingsStruct
     {

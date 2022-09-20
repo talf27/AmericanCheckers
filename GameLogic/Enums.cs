@@ -1,4 +1,4 @@
-﻿namespace Ex05_02
+﻿namespace GameLogic
 {
     public class Enums
     {

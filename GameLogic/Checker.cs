@@ -1,6 +1,6 @@
-﻿using static Ex05_02.Enums;
+﻿using static GameLogic.Enums;
 
-namespace Ex05_02
+namespace GameLogic
 {
     internal class Checker
     {

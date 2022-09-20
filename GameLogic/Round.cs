@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using static Ex05_02.Enums;
+using static GameLogic.Enums;
 
-namespace Ex05_02
+namespace GameLogic
 {
     public class Round
     {

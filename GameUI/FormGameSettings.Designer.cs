@@ -1,4 +1,4 @@
-﻿namespace Ex05_01
+﻿namespace GameUI
 {
     partial class FormGameSettings
     {

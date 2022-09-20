@@ -1,7 +1,7 @@
-﻿using Ex05_02;
-using static Ex05_02.Enums;
+﻿using GameLogic;
+using static GameLogic.Enums;
 
-namespace Ex05_01
+namespace GameUI
 {
     internal class FormGame : Form
     {
